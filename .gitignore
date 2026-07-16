@@ -1,0 +1,18 @@
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE files
+.idea/
+
+# Training outputs and experiment logs
+runs/
+wandb/
+
+# Local datasets and generated images
+data/
+hot/
+augmented_images/
+ultralytics-main/data/
+ultralytics-main/ultralytics/datasets/
